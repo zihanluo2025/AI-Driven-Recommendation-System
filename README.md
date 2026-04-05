@@ -1,7 +1,5 @@
-# HA1
-Recommendation System
 
-# Abstract
+# HA1: AI Recommendation System
 Recommendation systems have become indispensable across various domains, such as social networking , e-commerce, and digital marketing, by offering personalized suggestions and user-centric feedback. However, achieving high accuracy and reliability in these systems remains a critical challenge. This project aims to develop an `AI-driven recommendation system`, designed to deliver precise and context-aware recommendations tailored to individual user requirements. The approach involves generating synthetic data, selecting three leading AI models from existing research, training and testing these models, and conducting a comparative performance analysis based on accuracy. The evaluation will be conducted using a dataset of Australian Migration Agents, with the objective of effectively matching migrants to suitable migration agents based on their unique requirements and preferences.
 
 # Team members
