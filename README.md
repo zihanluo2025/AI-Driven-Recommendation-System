@@ -122,6 +122,7 @@ Database: SQLite3
 ## Document collaboration
 
 use `Microsoft 365` to share all the editable documents, such as slides, Word and Excel, which can help members monitor and check each other and facilitate cooperation.
+<img width="938" height="288" alt="image" src="https://github.com/user-attachments/assets/9ec0b9eb-65b8-4ec0-8954-91c684481146" />
 
 ![image](https://github.com/user-attachments/assets/5a1d3960-72b6-48be-b0f1-dc82d9e3915a)
 
